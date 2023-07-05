@@ -1,0 +1,141 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VmaxNativeHelper
+import Foundation
+import Swift
+import UIKit
+import Vmax
+@_exported import VmaxNativeHelper
+import _Concurrency
+public protocol VmaxNativeLayout : Vmax.VmaxLayout {
+  func getIcon() -> UIKit.UIImageView?
+  func getTitle() -> UIKit.UILabel?
+  func getMediaView() -> UIKit.UIView?
+  func getCTA() -> UIKit.UIButton?
+  func setTagLine(text: Swift.String?)
+  func setSponsored(text: Swift.String?)
+  func setDescription(text: Swift.String?)
+  func setCustomImage(image: UIKit.UIImage?)
+  func setDisplayUrl(text: Swift.String?)
+  func setLikes(text: Swift.String?)
+  func setRating(text: Swift.String?)
+  func setDownloads(text: Swift.String?)
+  func setPrice(text: Swift.String?)
+  func setSalePrice(text: Swift.String?)
+  func setPhone(text: Swift.String?)
+  func setAddress(text: Swift.String?)
+}
+extension VmaxNativeHelper.VmaxNativeLayout {
+  public func getIcon() -> UIKit.UIImageView?
+  public func getTitle() -> UIKit.UILabel?
+  public func getMediaView() -> UIKit.UIView?
+  public func getCTA() -> UIKit.UIButton?
+  public func setTagLine(text: Swift.String?)
+  public func setSponsored(text: Swift.String?)
+  public func setDescription(text: Swift.String?)
+  public func setCustomImage(image: UIKit.UIImage?)
+  public func setDisplayUrl(text: Swift.String?)
+  public func setLikes(text: Swift.String?)
+  public func setRating(text: Swift.String?)
+  public func setDownloads(text: Swift.String?)
+  public func setPrice(text: Swift.String?)
+  public func setSalePrice(text: Swift.String?)
+  public func setPhone(text: Swift.String?)
+  public func setAddress(text: Swift.String?)
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdNative : ObjectiveC.NSObject, Vmax.VmaxAd {
+  @objc deinit
+  public func prepare(adResponse: Swift.String, delegate: Vmax.VmaxAdDelegate)
+  public func render(container: UIKit.UIView)
+  public static func getSignatures() -> [Swift.String]
+  public func pause()
+  public func resume()
+  public func close()
+  public func set(layout: Vmax.VmaxLayout)
+  public func set(adClickBrowser: Vmax.AdClickBrowser)
+}
+extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxRefreshableAd {
+  public func shouldProcessRefresh() -> Swift.Bool
+}
+extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxMediaEventsDelegate {
+  public func set(vmaxMediaEvents: [Vmax.VmaxMediaEvents])
+}
+extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxViewabilityProtocol {
+  public func add(viewability: Vmax.VmaxAdViewability)
+}
+extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxAdAssetDelegate {
+  public func onPrepared<T>(asset: Vmax.VmaxAdAssetHelper, result: T)
+  public func onPrepareFailed(asset: Vmax.VmaxAdAssetHelper, error: Vmax.VmaxError)
+  public func onRendered<T>(asset: Vmax.VmaxAdAssetHelper, result: T)
+  public func onRenderFailed(asset: Vmax.VmaxAdAssetHelper, error: Vmax.VmaxError)
+  public func onClicked(asset: Vmax.VmaxAdAssetHelper)
+  public func onClickedComplete(asset: Vmax.VmaxAdAssetHelper)
+  public func onClosed(asset: Vmax.VmaxAdAssetHelper)
+}
+extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxCTAHandlerEvents {
+  public func onSuccessRedirect(event: Vmax.VmaxCTAaction)
+  public func onFailureRedirect(error: Vmax.VmaxError)
+  public func onCompleteCTA()
+}
+extension VmaxNativeHelper.VmaxAdNative : Vmax.ViewPortManager {
+  public func addObserverToScrollViews()
+  public func removeObserverFromScrollViews()
+  @objc override dynamic public func observeValue(forKeyPath keyPath: Swift.String?, of object: Any?, change: [Foundation.NSKeyValueChangeKey : Any]?, context: Swift.UnsafeMutableRawPointer?)
+}
+extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxRefreshableAssetDelegate {
+  public func onAdPaused()
+  public func onAdResumed()
+  public func onAdComplete()
+}
+extension UIKit.UIImage {
+  public class func gifImageWithData(_ data: Foundation.Data) -> UIKit.UIImage?
+  public class func gifImageWithURL(_ gifUrl: Swift.String) -> UIKit.UIImage?
+  public class func gifImageWithName(_ name: Swift.String) -> UIKit.UIImage?
+}
+extension Swift.String {
+  public func isGif() -> Swift.Bool
+}
+public struct NativeMarkup : Swift.Codable {
+  public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
+}
+public struct NativeEventTracker : Swift.Codable {
+  public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
+}
+public struct NativeEventExt : Swift.Codable {
+  public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdNativeInterstitial : ObjectiveC.NSObject, Vmax.VmaxAd {
+  @objc deinit
+  public func prepare(adResponse: Swift.String, delegate: Vmax.VmaxAdDelegate)
+  public func render(container: UIKit.UIView)
+  public static func getSignatures() -> [Swift.String]
+  public func pause()
+  public func resume()
+  public func close()
+  public func set(layout: Vmax.VmaxLayout)
+  public func set(adClickBrowser: Vmax.AdClickBrowser)
+}
+extension VmaxNativeHelper.VmaxAdNativeInterstitial : Vmax.VmaxViewabilityProtocol {
+  public func add(viewability: Vmax.VmaxAdViewability)
+}
+extension VmaxNativeHelper.VmaxAdNativeInterstitial : Vmax.VmaxAdDelegate {
+  public func onLoadSuccess(vmaxAd: Vmax.VmaxAd)
+  public func onLoadFailure(vmaxAd: Vmax.VmaxAd, vmaxError: Vmax.VmaxError)
+  public func onRenderSuccess(vmaxAd: Vmax.VmaxAd)
+  public func onRenderFailure(vmaxAd: Vmax.VmaxAd, vmaxError: Vmax.VmaxError)
+  public func onAdPaused()
+  public func onAdResumed()
+  public func onClose(vmaxAd: Vmax.VmaxAd)
+  public func onClicked(vmaxAd: Vmax.VmaxAd)
+}
+extension VmaxNativeHelper.VmaxAdNativeInterstitial : Vmax.VmaxInterstitialDelegate {
+  public func onAdInterstitialClose()
+}
+final public class VmaxVastNativeTracker {
+  public init(nativeMarkup: VmaxNativeHelper.NativeMarkup)
+  final public func get() -> Vmax.VmaxTracker?
+  @objc deinit
+}
