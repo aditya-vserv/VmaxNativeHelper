@@ -24,6 +24,7 @@ public protocol VmaxNativeLayout : Vmax.VmaxLayout {
   func setSalePrice(text: Swift.String?)
   func setPhone(text: Swift.String?)
   func setAddress(text: Swift.String?)
+  func getVideoLayout() -> Vmax.VmaxLayout?
 }
 extension VmaxNativeHelper.VmaxNativeLayout {
   public func getIcon() -> UIKit.UIImageView?
@@ -42,6 +43,7 @@ extension VmaxNativeHelper.VmaxNativeLayout {
   public func setSalePrice(text: Swift.String?)
   public func setPhone(text: Swift.String?)
   public func setAddress(text: Swift.String?)
+  public func getVideoLayout() -> Vmax.VmaxLayout?
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdNative : ObjectiveC.NSObject, Vmax.VmaxAd {
   @objc deinit

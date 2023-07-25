@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name = "VmaxNativeHelper"
-  spec.version = "1.0.0"
+  spec.version = "1.0.1"
   spec.summary = "VmaxNativeHelper allows the publishers to display native ads."
   spec.description = "VmaxNativeHelper allows the publishers to display native ads."
   spec.homepage = "https://www.vmax.com"
