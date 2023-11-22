@@ -10,11 +10,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		jBt0LRrGcOAPYYPMzImLhz8N6Ic=
+		wzs3NI8oQJc3oRh22tvSBqaP5EQ=
 		</data>
 		<key>Headers/VmaxNativeHelper-Swift.h</key>
 		<data>
-		Lxv9X8KM5GHMvMd2hF+cf8w1hwQ=
+		ceQVQ7n0keq7ZN5q8G+SmKBSqDg=
 		</data>
 		<key>Headers/VmaxNativeHelper.h</key>
 		<data>
@@ -22,31 +22,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5xHlxktKx389QOdBF17RK6JNIXo=
+		HmE9oFsXSjO+yCHHbHsObknlzNY=
+		</data>
+		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		4iXIV7K/ZPmmVqJE8hNQkkqTE4w=
+		</data>
+		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		cZHP3oYoKZIusaNeTibo9EnO9Sg=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		ExiUJl9di6TAcUdZc7WJwPVBum0=
+		Od56XRCkBbBM4q2c7GP7OP84ucE=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		wR3ldzNkuke9+AsUnMoLzh8dLCg=
+		cZHP3oYoKZIusaNeTibo9EnO9Sg=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		E+eS3oRn4VIz9T0ENkKamQ3xNHE=
+		DqCvGwe1i0RsC4LypFk4ZrWmgTk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		eJwiazVm1X/IPqZ4NWQX7vZfT9w=
+		Bm8/3fsNXaVH2yEDLB8gWMbNNiQ=
 		</data>
 		<key>VmaxNativeDefaultLayout.nib</key>
 		<data>
-		ojyIFLxivJd93TlSt8JlwyJzRDg=
+		4vm/gzYUOsh1ELDMBcpN8ouLqr0=
 		</data>
 		<key>VmaxNativeInterstitialLayout.nib</key>
 		<data>
-		Gbc7Cr3S6oWli/BA2rpEjTbJuYg=
+		vnwkZw7YWmzXl/KR7x/djOUPLJQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -62,14 +70,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zxlqqxWGPKe4mW1pnSiWqURC0B+gH+49X/TtCCPDa+o=
+			Q5aBkr4NgL1yBf7r0B9Xg3WReovkttk4DLIf5/i6Uw8=
 			</data>
 		</dict>
 		<key>Headers/VmaxNativeHelper-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oJuvGI5XVgiJkCpt2snyV3eOb00Di8eyQskbIxR3LAY=
+			UfqRpJykrV0/luAB4rXS0LIX2tF7nm8AbXQnki3qRGc=
 			</data>
 		</dict>
 		<key>Headers/VmaxNativeHelper.h</key>
@@ -79,46 +87,60 @@
 			glt8uFc0ghFa1ynZKlX3Ch6NruYqWCUinmM44CHRl3s=
 			</data>
 		</dict>
+		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ToWlcWUg4YRJI7Amrt/2RsZpAUd3cLu2Ar0AmKZDu04=
+			</data>
+		</dict>
+		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qy2/BOdGMpaEzZ6PZ9aOuNPak/9Fp4V+LHgMDfZlBGg=
+			</data>
+		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kN81ckdJwT5bCWSHGqouVMa67LO1gSYq0OhEft2TAJE=
+			F7vgWScNoxGjtGqvpoRLyTwcN3xvjpdtxhLuOKz2Z2c=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F5IkRXRnJOi5wyj/p3EyVmN70hAzmWSIFcI5yJqMK/o=
+			qy2/BOdGMpaEzZ6PZ9aOuNPak/9Fp4V+LHgMDfZlBGg=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cEYmkzBP9R+/UuViCU81qMVnU9NbYJbk358Mv55AztI=
+			NaHGh2rI89+He8psmcbDxdEW2UY7H87lgjMHzEBqlHo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e+Tb4ZqamnK94zoQ7FVeFgLGuLT/LT4PTCXLSfaiT9g=
+			hxqT4XCUQ9UB3Pr2Bjv8a15VF6rXbNyDYqxvRvlRzlQ=
 			</data>
 		</dict>
 		<key>VmaxNativeDefaultLayout.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I2gcI9cHv/0Zzl3jVPgwdcJjM4OQ32diLlEsytV2SxM=
+			Qgi+kc8gTRavUyb0n6bDMO4G4MDfo2vwzgprKwHf9EI=
 			</data>
 		</dict>
 		<key>VmaxNativeInterstitialLayout.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QNtC+1+zce+DGoK3J6aKRYEJpzCtfS3hN91I3HzOtfs=
+			DO6ODC+KicGUMsyjmxTDFx6wMuGbQvhVOGNt0iEpkYw=
 			</data>
 		</dict>
 	</dict>

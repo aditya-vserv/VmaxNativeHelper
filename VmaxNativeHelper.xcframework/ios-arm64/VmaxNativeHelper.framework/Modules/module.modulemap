@@ -6,6 +6,6 @@ framework module VmaxNativeHelper {
 }
 
 module VmaxNativeHelper.Swift {
-    header "VmaxNativeHelper-Swift.h"
-    requires objc
+  header "VmaxNativeHelper-Swift.h"
+  requires objc
 }
