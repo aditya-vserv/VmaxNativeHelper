@@ -1421,6 +1421,33 @@
           {
             "kind": "Function",
             "name": "set",
+            "printedName": "set(contentMode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ContentMode",
+                "printedName": "UIKit.UIView.ContentMode",
+                "usr": "c:@E@UIViewContentMode"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB0C3set11contentModeySo013UIViewContentG0V_tF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB0C3set11contentModeySo013UIViewContentG0V_tF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "set",
             "printedName": "set(adClickBrowser:)",
             "children": [
               {
@@ -3467,35 +3494,35 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 1616,
+      "offset": 1691,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 1656,
+      "offset": 1731,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 1695,
+      "offset": 1770,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "StringLiteral",
-      "offset": 1923,
+      "offset": 1998,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "StringLiteral",
-      "offset": 1930,
+      "offset": 2005,
       "length": 10,
       "value": "\"\""
     },
