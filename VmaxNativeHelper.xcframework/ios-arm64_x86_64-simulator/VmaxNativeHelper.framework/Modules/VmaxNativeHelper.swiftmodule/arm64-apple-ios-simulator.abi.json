@@ -1473,6 +1473,61 @@
           },
           {
             "kind": "Function",
+            "name": "set",
+            "printedName": "set(adInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdInfo",
+                "printedName": "Vmax.VmaxAdInfo",
+                "usr": "s:4Vmax0A6AdInfoC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB0C3set6adInfoy0A00adG0C_tF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB0C3set6adInfoy0A00adG0C_tF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVmaxAdInfo",
+            "printedName": "getVmaxAdInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Vmax.VmaxAdInfo?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VmaxAdInfo",
+                    "printedName": "Vmax.VmaxAdInfo",
+                    "usr": "s:4Vmax0A6AdInfoC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB0C03getaD4Info0A00adF0CSgyF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB0C03getaD4Info0A00adF0CSgyF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "shouldProcessRefresh",
             "printedName": "shouldProcessRefresh()",
             "children": [
@@ -2816,6 +2871,61 @@
           },
           {
             "kind": "Function",
+            "name": "set",
+            "printedName": "set(adInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdInfo",
+                "printedName": "Vmax.VmaxAdInfo",
+                "usr": "s:4Vmax0A6AdInfoC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB12InterstitialC3set6adInfoy0A00adH0C_tF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB12InterstitialC3set6adInfoy0A00adH0C_tF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVmaxAdInfo",
+            "printedName": "getVmaxAdInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Vmax.VmaxAdInfo?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VmaxAdInfo",
+                    "printedName": "Vmax.VmaxAdInfo",
+                    "usr": "s:4Vmax0A6AdInfoC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB12InterstitialC03getaD4Info0A00adG0CSgyF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB12InterstitialC03getaD4Info0A00adG0CSgyF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "add",
             "printedName": "add(viewability:)",
             "children": [
@@ -3487,42 +3597,42 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 958,
+      "offset": 986,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 1691,
+      "offset": 1719,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 1731,
+      "offset": 1759,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 1770,
+      "offset": 1798,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "StringLiteral",
-      "offset": 1998,
+      "offset": 2026,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "StringLiteral",
-      "offset": 2005,
+      "offset": 2033,
       "length": 10,
       "value": "\"\""
     },
