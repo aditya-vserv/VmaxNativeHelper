@@ -1,7 +1,7 @@
 framework module VmaxNativeHelper {
   umbrella header "VmaxNativeHelper.h"
-
   export *
+
   module * { export * }
 }
 

@@ -10,11 +10,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		wzs3NI8oQJc3oRh22tvSBqaP5EQ=
+		TEZY9uGFlGgy5fEzVVlnrFEm9oE=
 		</data>
 		<key>Headers/VmaxNativeHelper-Swift.h</key>
 		<data>
-		oMYHRpaZLUrOi5ReaatHQYK/h98=
+		JubTs7MM1FueMKiFBxmg5u9Ldqo=
 		</data>
 		<key>Headers/VmaxNativeHelper.h</key>
 		<data>
@@ -22,59 +22,59 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LiyugZd2KV5TLbjVwHpjhylmruA=
+		du0xFmQ3PZWylUWjHGsKIkRwM5k=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Unrenu8RbaGnf6ZEeZf6O9wRzK8=
+		Jm+s/pKTb/8ALitqNj7ocaJ2bY0=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		U9+suhT5atDdYwDLE7JDqmTi8CU=
+		6GtiCl29ECvn6iVk82fNjl/SSlo=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		/4agn7eAbivOP9HcsovudEpR/lE=
+		X2sAk2FNgufr1sw4k8SCuiTZtQM=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		U9+suhT5atDdYwDLE7JDqmTi8CU=
+		6GtiCl29ECvn6iVk82fNjl/SSlo=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dOoLbESox04NQT0TUwXobfbVSAI=
+		OM0Dc1X2ueU1G5Tif5GbzQwr4aQ=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Unrenu8RbaGnf6ZEeZf6O9wRzK8=
+		Jm+s/pKTb/8ALitqNj7ocaJ2bY0=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		D4ugo2UIMcUpGN/sIHTyiarUycE=
+		HFcXbDCIh2yAUch0J8J+S1FLnhM=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TN1c/B/HK2aeNK/xmr67wsTQY0Q=
+		iDpkLPmY0byzqoe9Xodt1Wxi2g8=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		D4ugo2UIMcUpGN/sIHTyiarUycE=
+		HFcXbDCIh2yAUch0J8J+S1FLnhM=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Jqd35y3lvG9gm8VZmBvp8U+7zVE=
+		/MB8MXnYkKmTDB1pf81eMHM6BCQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Bm8/3fsNXaVH2yEDLB8gWMbNNiQ=
+		2818laAEQrhuKAl1qpATkFhJElc=
 		</data>
 		<key>VmaxNativeDefaultLayout.nib</key>
 		<data>
-		4vm/gzYUOsh1ELDMBcpN8ouLqr0=
+		MIz1Z/vj01Da2AOP6xFzFyMD//g=
 		</data>
 		<key>VmaxNativeInterstitialLayout.nib</key>
 		<data>
-		vnwkZw7YWmzXl/KR7x/djOUPLJQ=
+		4qMyf/qsIfj6Hw0fEQY/MIPapbw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -90,14 +90,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q5aBkr4NgL1yBf7r0B9Xg3WReovkttk4DLIf5/i6Uw8=
+			UscBH4Ce7Jd3PckT6i2fCJIdwfGnoPNQ+HwV+DtwhnY=
 			</data>
 		</dict>
 		<key>Headers/VmaxNativeHelper-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7PAMd4GVnKzfHXtR3Dv8GaQyHI/jDv7jDVSxByMPLwI=
+			UOK3oO5NvfM1H78LL1Rgju6O1UxidJlOB1K3R7yvSzY=
 			</data>
 		</dict>
 		<key>Headers/VmaxNativeHelper.h</key>
@@ -111,91 +111,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qmM39gHfp5APLmJsJLbEyiK7Sl9mAobUzm+qEwC2Ugw=
+			UCpx2vS4bbADKIMtT1azLAVvLFJNt6p9GuxDzRDsMc4=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0tPptd4XUmS7+Wy0gT4LPTGyuM4uhGxjP9UERyyepCw=
+			s4FBmMuqWM6iWfDMbLSlV3QOHyPhLs23LPEhoGJGBVQ=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2JIqWiyG2pM8VDg8CWFtbyIOCpSSFV5HmPUbpilgmNk=
+			D+AN1uzNyHe3DSgR1b7Z0xVFDPTTf5+5aZ8lO6vB62I=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0tPptd4XUmS7+Wy0gT4LPTGyuM4uhGxjP9UERyyepCw=
+			s4FBmMuqWM6iWfDMbLSlV3QOHyPhLs23LPEhoGJGBVQ=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			efeDIdi6JIrCPvJJ6uPhrMHDZXazYD8ctzNth4mhCX0=
+			zu7mpxNXIVAG6MAzIV2BlHIhDXY7jmebyq08voBywoU=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qmM39gHfp5APLmJsJLbEyiK7Sl9mAobUzm+qEwC2Ugw=
+			UCpx2vS4bbADKIMtT1azLAVvLFJNt6p9GuxDzRDsMc4=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xPrlZTlYfhBf+8ZlejBT2k8SLRGEkfvLKRc+LCmHyE0=
+			PelIZwY/3xiCn8tq6I/n/xHDuhturr86RY9GwvgOqtI=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			baW4MqgqQC9SR+lvxFn55GLx4QEZtCkUgrKYhTq3WYw=
+			lUhNibynxc9Rv0B+3ccQIajVFSDnwHH9N1gCKv7eeos=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xPrlZTlYfhBf+8ZlejBT2k8SLRGEkfvLKRc+LCmHyE0=
+			PelIZwY/3xiCn8tq6I/n/xHDuhturr86RY9GwvgOqtI=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pwU3nJvessr2HhCaaWVqY72e7EpQ8yxn6vzVdpzZdgA=
+			3n4s6bMYBXmZeuVgJRhWOZDBkIeMXTa1gbp0XVS4N0A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hxqT4XCUQ9UB3Pr2Bjv8a15VF6rXbNyDYqxvRvlRzlQ=
+			lTEPhtqp4TSm++hhV25WeiooPnc08tuu/S452k7/3Kg=
 			</data>
 		</dict>
 		<key>VmaxNativeDefaultLayout.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qgi+kc8gTRavUyb0n6bDMO4G4MDfo2vwzgprKwHf9EI=
+			cpoF2TSb3Q3Lj8KqrxpOTdVPMNlVxFGjk0thoLh18t8=
 			</data>
 		</dict>
 		<key>VmaxNativeInterstitialLayout.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DO6ODC+KicGUMsyjmxTDFx6wMuGbQvhVOGNt0iEpkYw=
+			Y+AxKH1xUVoByXQ7sHNEwx3nXZ/MTjEMrnHnzPZiIo8=
 			</data>
 		</dict>
 	</dict>
