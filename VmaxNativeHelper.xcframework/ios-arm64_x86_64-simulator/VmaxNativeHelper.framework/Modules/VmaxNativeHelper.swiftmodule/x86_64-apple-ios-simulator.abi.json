@@ -674,6 +674,31 @@
           },
           {
             "kind": "Function",
+            "name": "getAdLayoutSize",
+            "printedName": "getAdLayoutSize()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0aB6LayoutP05getAdD4SizeSo6CGSizeVyF",
+            "mangledName": "$s16VmaxNativeHelper0aB6LayoutP05getAdD4SizeSo6CGSizeVyF",
+            "moduleName": "VmaxNativeHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxNativeHelper.VmaxNativeLayout>",
+            "sugared_genericSig": "<Self where Self : VmaxNativeHelper.VmaxNativeLayout>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "getIcon",
             "printedName": "getIcon()",
             "children": [
@@ -3817,14 +3842,14 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "StringLiteral",
-      "offset": 1995,
+      "offset": 2049,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "StringLiteral",
-      "offset": 2002,
+      "offset": 2056,
       "length": 10,
       "value": "\"\""
     },

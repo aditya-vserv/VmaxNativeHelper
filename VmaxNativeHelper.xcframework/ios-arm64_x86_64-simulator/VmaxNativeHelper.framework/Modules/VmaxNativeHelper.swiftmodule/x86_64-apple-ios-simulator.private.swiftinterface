@@ -31,6 +31,7 @@ public protocol VmaxNativeLayout : Vmax.VmaxLayout {
   func setAddress(text: Swift.String?)
   func getVideoLayout() -> (any Vmax.VmaxLayout)?
   func setMainImageContentMode() -> UIKit.UIView.ContentMode
+  func getAdLayoutSize() -> CoreFoundation.CGSize
 }
 extension VmaxNativeHelper.VmaxNativeLayout {
   public func getIcon() -> UIKit.UIImageView?
