@@ -160,6 +160,44 @@
           },
           {
             "kind": "Function",
+            "name": "setCTA",
+            "printedName": "setCTA(text:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0aB6LayoutP6setCTA4textySSSg_tF",
+            "mangledName": "$s16VmaxNativeHelper0aB6LayoutP6setCTA4textySSSg_tF",
+            "moduleName": "VmaxNativeHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxNativeHelper.VmaxNativeLayout>",
+            "sugared_genericSig": "<Self where Self : VmaxNativeHelper.VmaxNativeLayout>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "setTagLine",
             "printedName": "setTagLine(text:)",
             "children": [
@@ -807,6 +845,40 @@
             "declKind": "Func",
             "usr": "s:16VmaxNativeHelper0aB6LayoutPAAE6getCTASo8UIButtonCSgyF",
             "mangledName": "$s16VmaxNativeHelper0aB6LayoutPAAE6getCTASo8UIButtonCSgyF",
+            "moduleName": "VmaxNativeHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxNativeHelper.VmaxNativeLayout>",
+            "sugared_genericSig": "<Self where Self : VmaxNativeHelper.VmaxNativeLayout>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setCTA",
+            "printedName": "setCTA(text:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0aB6LayoutPAAE6setCTA4textySSSg_tF",
+            "mangledName": "$s16VmaxNativeHelper0aB6LayoutPAAE6setCTA4textySSSg_tF",
             "moduleName": "VmaxNativeHelper",
             "genericSig": "<τ_0_0 where τ_0_0 : VmaxNativeHelper.VmaxNativeLayout>",
             "sugared_genericSig": "<Self where Self : VmaxNativeHelper.VmaxNativeLayout>",
@@ -3877,42 +3949,35 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 194,
+      "offset": 203,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 215,
+      "offset": 233,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 238,
+      "offset": 265,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 270,
+      "offset": 297,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 300,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
-      "kind": "StringLiteral",
-      "offset": 335,
+      "offset": 327,
       "length": 2,
       "value": "\"\""
     },
@@ -3926,91 +3991,98 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 390,
+      "offset": 389,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 419,
+      "offset": 417,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 447,
+      "offset": 446,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 479,
+      "offset": 474,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 507,
+      "offset": 506,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 539,
+      "offset": 534,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 567,
+      "offset": 566,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 597,
+      "offset": 594,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 630,
+      "offset": 624,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 664,
+      "offset": 657,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 696,
+      "offset": 691,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 1021,
+      "offset": 723,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 1066,
+      "offset": 1048,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
+      "kind": "StringLiteral",
+      "offset": 1093,
       "length": 2,
       "value": "\"\""
     },

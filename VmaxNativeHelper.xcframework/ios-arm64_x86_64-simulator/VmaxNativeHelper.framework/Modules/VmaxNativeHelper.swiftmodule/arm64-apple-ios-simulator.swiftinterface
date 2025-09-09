@@ -17,6 +17,7 @@ public protocol VmaxNativeLayout : Vmax.VmaxLayout {
   func getTitle() -> UIKit.UILabel?
   func getMediaView() -> UIKit.UIView?
   func getCTA() -> UIKit.UIButton?
+  func setCTA(text: Swift.String?)
   func setTagLine(text: Swift.String?)
   func setSponsored(text: Swift.String?)
   func setDescription(text: Swift.String?)
@@ -38,6 +39,7 @@ extension VmaxNativeHelper.VmaxNativeLayout {
   public func getTitle() -> UIKit.UILabel?
   public func getMediaView() -> UIKit.UIView?
   public func getCTA() -> UIKit.UIButton?
+  public func setCTA(text: Swift.String?)
   public func setTagLine(text: Swift.String?)
   public func setSponsored(text: Swift.String?)
   public func setDescription(text: Swift.String?)
