@@ -2,7 +2,7 @@
 //  VmaxNativeHelper.h
 //  VmaxNativeHelper
 //
-//  Created by Cloy Vserv on 14/12/22.
+//  Created by Admin_Vserv on 14/12/22.
 //
 
 #import <Foundation/Foundation.h>

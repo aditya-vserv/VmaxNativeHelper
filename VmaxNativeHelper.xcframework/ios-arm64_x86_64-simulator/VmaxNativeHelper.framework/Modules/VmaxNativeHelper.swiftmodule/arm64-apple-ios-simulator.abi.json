@@ -3886,203 +3886,203 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 986,
+      "offset": 706,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 1688,
+      "offset": 1408,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 1728,
+      "offset": 1448,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "BooleanLiteral",
-      "offset": 1767,
+      "offset": 1487,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "StringLiteral",
-      "offset": 2049,
+      "offset": 1769,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxAdNative.swift",
       "kind": "StringLiteral",
-      "offset": 2056,
+      "offset": 1776,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxNativeDefaultLayout\/VmaxNativeDefaultLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 1644,
+      "offset": 1645,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/VmaxNativeDefaultLayout\/VmaxNativeDefaultLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 1655,
+      "offset": 1656,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 175,
+      "offset": 176,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 203,
+      "offset": 204,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 233,
+      "offset": 234,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 265,
+      "offset": 266,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 297,
+      "offset": 298,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 327,
+      "offset": 328,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 362,
+      "offset": 363,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 389,
+      "offset": 390,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 417,
+      "offset": 418,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 446,
+      "offset": 447,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 474,
+      "offset": 475,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 506,
+      "offset": 507,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 534,
+      "offset": 535,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 566,
+      "offset": 567,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 594,
+      "offset": 595,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 624,
+      "offset": 625,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 657,
+      "offset": 658,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 691,
+      "offset": 692,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 723,
+      "offset": 724,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 1048,
+      "offset": 1049,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-native\/VmaxNativeHelper\/VmaxNativeHelper\/Source\/NativeMarkup.swift",
       "kind": "StringLiteral",
-      "offset": 1093,
+      "offset": 1094,
       "length": 2,
       "value": "\"\""
     },
