@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/VmaxNativeHelper-Swift.h</key>
 		<data>
-		JubTs7MM1FueMKiFBxmg5u9Ldqo=
+		zPFPnfv96Fi8bVK4rknmjyGLSoM=
 		</data>
 		<key>Headers/VmaxNativeHelper.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xzDdYMLiwzE3HJllFRSnpDjIvk0=
+		wvhUXA2h9cyQaeWYWQao7a3Cg3Q=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		wAty+OVO6EjrMLPGpTHqatYJTCo=
+		DMIQY+hD4w7uAnF+jyes1VJPHoI=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wAty+OVO6EjrMLPGpTHqatYJTCo=
+		DMIQY+hD4w7uAnF+jyes1VJPHoI=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5uTGbR2dkrxGq9IY8oxxiew+lEE=
+		unG74KNu0U/a6dWXdom8mT0NjuU=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xzDdYMLiwzE3HJllFRSnpDjIvk0=
+		wvhUXA2h9cyQaeWYWQao7a3Cg3Q=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aL9uhIQxoM5AJ7FzZSzYCpszF64=
+		cQpfVkJVVPSCwfiCUX/EqZV+3Bg=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aL9uhIQxoM5AJ7FzZSzYCpszF64=
+		cQpfVkJVVPSCwfiCUX/EqZV+3Bg=
 		</data>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		R5J54yrRl4dt3v3G8/B3qsEJlyc=
+		e3QrPoky2vX71iNGfqlDCa7x/68=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UOK3oO5NvfM1H78LL1Rgju6O1UxidJlOB1K3R7yvSzY=
+			uvrs3SrbB/rX7Z2iLqTUXQcrXtGDD/69ZN/POWsjAwI=
 			</data>
 		</dict>
 		<key>Headers/VmaxNativeHelper.h</key>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o3Jxsv6X3pXi0ywR/dOAX8Dd5k3VfTMuEiQ9ydrFkPw=
+			Bs88ww6j+3/XSldtxknyDhP6pKHNFPO/OpzkbVkEXdM=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/bihucWl3YX93tEO8W/c+9FpBcKZuEhpZyHxmcnEQWQ=
+			UoKa+aLlX5aM4OM8DCQ9RV+q71I7AU4YpLkL47WL1kA=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -132,28 +132,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/bihucWl3YX93tEO8W/c+9FpBcKZuEhpZyHxmcnEQWQ=
+			UoKa+aLlX5aM4OM8DCQ9RV+q71I7AU4YpLkL47WL1kA=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aS4C1cjyvFXcT+MyU+6uYSDOBH3WZWLFdTvYF1c38nc=
+			jYMLj+MMgml6Zz8sAzdFoVv8gBZBDil8RD6YfwLdsnQ=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o3Jxsv6X3pXi0ywR/dOAX8Dd5k3VfTMuEiQ9ydrFkPw=
+			Bs88ww6j+3/XSldtxknyDhP6pKHNFPO/OpzkbVkEXdM=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YhYtOpguzVm/xji32OXc9X42OJe2twNenXNodpz7uqg=
+			iDESqsK80BP4qwY8gHn6xPqAg1jdrnWH1fkgrooeYzo=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -167,14 +167,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YhYtOpguzVm/xji32OXc9X42OJe2twNenXNodpz7uqg=
+			iDESqsK80BP4qwY8gHn6xPqAg1jdrnWH1fkgrooeYzo=
 			</data>
 		</dict>
 		<key>Modules/VmaxNativeHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EOaXqxCb/kwKPx671u9+d46N2bWgSATQFWGo+YYk1gQ=
+			4UAxY716aVYrjsDAac1Ju8oEr9KPY5qYf0z57tV3T84=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

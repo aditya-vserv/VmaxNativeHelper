@@ -102,6 +102,20 @@ extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxRefreshableAssetDelegate {
   public func onAdResumed()
   public func onAdComplete()
 }
+extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxCarouselAd, Vmax.VmaxMediaEvents {
+  public func isCardActive() -> Swift.Bool
+  public func swipeMode() -> Vmax.VmaxCarouselSwipeMode
+  public func isAdLoaded() -> Swift.Bool
+  public func getAdWidth() -> Swift.Int
+  public func getAdHeight() -> Swift.Int
+  public func setAdCompletionListener(adCompletionListener: any Vmax.VmaxCarouselAdCompletionListener)
+  public func setAdFocus()
+  public func setAdOutOfFocus()
+  public func setAdIsDisplayedInCarousel(flag: Swift.Bool)
+  public func onAdLoaded()
+  public func onError<T>(info: T?, error: Vmax.VmaxError)
+  public func onComplete<T>(info: T?)
+}
 extension UIKit.UIImage {
   public class func gifImageWithData(_ data: Foundation.Data) -> UIKit.UIImage?
   public class func gifImageWithURL(_ gifUrl: Swift.String) -> (UIKit.UIImage?, Foundation.Data?)

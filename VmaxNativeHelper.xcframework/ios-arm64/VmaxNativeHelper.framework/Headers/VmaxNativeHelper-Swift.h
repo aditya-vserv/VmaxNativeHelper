@@ -318,6 +318,7 @@ SWIFT_CLASS("_TtC16VmaxNativeHelper12VmaxAdNative")
 
 
 
+
 @class NSString;
 
 @interface VmaxAdNative (SWIFT_EXTENSION(VmaxNativeHelper))

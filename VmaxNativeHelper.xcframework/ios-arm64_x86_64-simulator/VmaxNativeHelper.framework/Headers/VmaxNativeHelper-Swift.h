@@ -318,6 +318,7 @@ SWIFT_CLASS("_TtC16VmaxNativeHelper12VmaxAdNative")
 
 
 
+
 @class NSString;
 
 @interface VmaxAdNative (SWIFT_EXTENSION(VmaxNativeHelper))
@@ -663,6 +664,7 @@ SWIFT_CLASS("_TtC16VmaxNativeHelper12VmaxAdNative")
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
 
 
 
