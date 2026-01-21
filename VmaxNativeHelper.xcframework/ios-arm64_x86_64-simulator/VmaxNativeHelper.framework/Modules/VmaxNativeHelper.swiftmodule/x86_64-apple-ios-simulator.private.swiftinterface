@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
-// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name VmaxNativeHelper
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name VmaxNativeHelper
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
 import DeveloperToolsSupport
 import Foundation
 import Swift
@@ -63,6 +63,8 @@ extension VmaxNativeHelper.VmaxNativeLayout {
   public static func getRegexPatternSignatures() -> [Swift.String]
   public func pause()
   public func resume()
+  public func mute()
+  public func unmute()
   public func close()
   public func set(layout: any Vmax.VmaxLayout)
   public func set(adClickBrowser: Vmax.AdClickBrowser)
@@ -85,6 +87,8 @@ extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxAdAssetDelegate {
   public func onRenderFailed(asset: any Vmax.VmaxAdAssetHelper, error: Vmax.VmaxError)
   public func onClicked(asset: any Vmax.VmaxAdAssetHelper)
   public func onClickedComplete(asset: any Vmax.VmaxAdAssetHelper)
+  public func onAdMuted(asset: any Vmax.VmaxAdAssetHelper)
+  public func onAdUnmuted(asset: any Vmax.VmaxAdAssetHelper)
   public func onClosed(asset: any Vmax.VmaxAdAssetHelper)
 }
 extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxCTAHandlerEvents {
@@ -156,6 +160,8 @@ extension VmaxNativeHelper.VmaxAdNativeInterstitial : Vmax.VmaxAdDelegate {
   public func onRenderFailure(vmaxAd: any Vmax.VmaxAd, vmaxError: Vmax.VmaxError)
   public func onAdPaused()
   public func onAdResumed()
+  public func onAdMuted()
+  public func onAdUnmuted()
   public func onClose(vmaxAd: any Vmax.VmaxAd)
   public func onClicked(vmaxAd: any Vmax.VmaxAd)
 }
