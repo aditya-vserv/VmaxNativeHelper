@@ -1562,6 +1562,46 @@
           },
           {
             "kind": "Function",
+            "name": "mute",
+            "printedName": "mute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB0C4muteyyF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB0C4muteyyF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "unmute",
+            "printedName": "unmute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB0C6unmuteyyF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB0C6unmuteyyF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "close",
             "printedName": "close()",
             "children": [
@@ -1952,6 +1992,60 @@
             "declKind": "Func",
             "usr": "s:16VmaxNativeHelper0a2AdB0C17onClickedComplete5assety0A00ad5AssetC0_p_tF",
             "mangledName": "$s16VmaxNativeHelper0a2AdB0C17onClickedComplete5assety0A00ad5AssetC0_p_tF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdMuted",
+            "printedName": "onAdMuted(asset:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
+                "usr": "s:4Vmax0A13AdAssetHelperP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB0C02onD5Muted5assety0A00ad5AssetC0_p_tF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB0C02onD5Muted5assety0A00ad5AssetC0_p_tF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdUnmuted",
+            "printedName": "onAdUnmuted(asset:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
+                "usr": "s:4Vmax0A13AdAssetHelperP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB0C02onD7Unmuted5assety0A00ad5AssetC0_p_tF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB0C02onD7Unmuted5assety0A00ad5AssetC0_p_tF",
             "moduleName": "VmaxNativeHelper",
             "declAttributes": [
               "AccessControl"
@@ -2565,6 +2659,28 @@
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdCompleted",
+            "printedName": "onAdCompleted()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB0C02onD9CompletedyyF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB0C02onD9CompletedyyF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -2715,6 +2831,13 @@
             "printedName": "VmaxMediaEvents",
             "usr": "s:4Vmax0A11MediaEventsP",
             "mangledName": "$s4Vmax0A11MediaEventsP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "VmaxCarouselAdCompletionListener",
+            "printedName": "VmaxCarouselAdCompletionListener",
+            "usr": "s:4Vmax0A28CarouselAdCompletionListenerP",
+            "mangledName": "$s4Vmax0A28CarouselAdCompletionListenerP"
           }
         ]
       },
@@ -3643,6 +3766,48 @@
             "declKind": "Func",
             "usr": "s:16VmaxNativeHelper0a2AdB12InterstitialC02onD7ResumedyyF",
             "mangledName": "$s16VmaxNativeHelper0a2AdB12InterstitialC02onD7ResumedyyF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdMuted",
+            "printedName": "onAdMuted()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB12InterstitialC02onD5MutedyyF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB12InterstitialC02onD5MutedyyF",
+            "moduleName": "VmaxNativeHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdUnmuted",
+            "printedName": "onAdUnmuted()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16VmaxNativeHelper0a2AdB12InterstitialC02onD7UnmutedyyF",
+            "mangledName": "$s16VmaxNativeHelper0a2AdB12InterstitialC02onD7UnmutedyyF",
             "moduleName": "VmaxNativeHelper",
             "declAttributes": [
               "AccessControl"

@@ -63,6 +63,8 @@ extension VmaxNativeHelper.VmaxNativeLayout {
   public static func getRegexPatternSignatures() -> [Swift.String]
   public func pause()
   public func resume()
+  public func mute()
+  public func unmute()
   public func close()
   public func set(layout: any Vmax.VmaxLayout)
   public func set(adClickBrowser: Vmax.AdClickBrowser)
@@ -85,6 +87,8 @@ extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxAdAssetDelegate {
   public func onRenderFailed(asset: any Vmax.VmaxAdAssetHelper, error: Vmax.VmaxError)
   public func onClicked(asset: any Vmax.VmaxAdAssetHelper)
   public func onClickedComplete(asset: any Vmax.VmaxAdAssetHelper)
+  public func onAdMuted(asset: any Vmax.VmaxAdAssetHelper)
+  public func onAdUnmuted(asset: any Vmax.VmaxAdAssetHelper)
   public func onClosed(asset: any Vmax.VmaxAdAssetHelper)
 }
 extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxCTAHandlerEvents {
@@ -102,7 +106,7 @@ extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxRefreshableAssetDelegate {
   public func onAdResumed()
   public func onAdComplete()
 }
-extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxCarouselAd, Vmax.VmaxMediaEvents {
+extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxCarouselAd, Vmax.VmaxMediaEvents, Vmax.VmaxCarouselAdCompletionListener {
   public func isCardActive() -> Swift.Bool
   public func swipeMode() -> Vmax.VmaxCarouselSwipeMode
   public func isAdLoaded() -> Swift.Bool
@@ -115,6 +119,7 @@ extension VmaxNativeHelper.VmaxAdNative : Vmax.VmaxCarouselAd, Vmax.VmaxMediaEve
   public func onAdLoaded()
   public func onError<T>(info: T?, error: Vmax.VmaxError)
   public func onComplete<T>(info: T?)
+  public func onAdCompleted()
 }
 extension UIKit.UIImage {
   public class func gifImageWithData(_ data: Foundation.Data) -> UIKit.UIImage?
@@ -156,6 +161,8 @@ extension VmaxNativeHelper.VmaxAdNativeInterstitial : Vmax.VmaxAdDelegate {
   public func onRenderFailure(vmaxAd: any Vmax.VmaxAd, vmaxError: Vmax.VmaxError)
   public func onAdPaused()
   public func onAdResumed()
+  public func onAdMuted()
+  public func onAdUnmuted()
   public func onClose(vmaxAd: any Vmax.VmaxAd)
   public func onClicked(vmaxAd: any Vmax.VmaxAd)
 }
